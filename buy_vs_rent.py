@@ -1,5 +1,5 @@
 #http://www.cruisingworld.com/features/2015-boat-of-the-year-awards/
-# git add -A && git commit -m "Your Message"
+# git add -A && git commit -m "incremental commit"
 
 from flask import Flask
 app = Flask(__name__)
